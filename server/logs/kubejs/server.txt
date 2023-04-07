@@ -1,0 +1,21 @@
+[11:42:36] [INFO ] server_scripts:script.js:3: Hello, World! (You will see this line every time server resources reload)
+[11:42:36] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[11:42:36] [INFO ] Loaded 1/1 KubeJS server scripts in 0.007 s
+[11:42:36] [INFO ] Scripts loaded
+[11:42:36] [INFO ] Scanning recipes...
+[11:42:39] [WARN ] Failed to parse recipe 'create:cutting/compat/byg/mangrove_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_log'
+[11:42:39] [WARN ] Failed to parse recipe create:cutting/compat/byg/mangrove_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_log'
+[11:42:39] [WARN ] Failed to parse recipe 'create:cutting/compat/byg/stripped_mangrove_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_log'
+[11:42:39] [WARN ] Failed to parse recipe create:cutting/compat/byg/stripped_mangrove_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_log'
+[11:42:39] [WARN ] Failed to parse recipe 'yigd:death_scroll[minecraft:crafting_shaped]': {"item":"yigd:death_scroll","count":1} is not a valid result!
+[11:42:39] [WARN ] Failed to parse recipe 'create:cutting/compat/byg/mangrove_wood[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_wood'
+[11:42:39] [WARN ] Failed to parse recipe create:cutting/compat/byg/mangrove_wood[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_wood'
+[11:42:39] [WARN ] Failed to parse recipe 'create:compat/byg/crushing/lignite_ore[create:crushing]': {"item":"byg:lignite","count":2} is not a valid result!
+[11:42:39] [WARN ] Failed to parse recipe 'create:mixing/mud_by_mixing[create:mixing]'! Falling back to vanilla: java.lang.StackOverflowError
+[11:42:39] [WARN ] Failed to parse recipe 'create:cutting/compat/byg/stripped_mangrove_wood[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
+[11:42:39] [WARN ] Failed to parse recipe create:cutting/compat/byg/stripped_mangrove_wood[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
+[11:42:39] [INFO ] Found 8511 recipes and 1 failed recipes in 181.5 ms
+[11:42:39] [INFO ] Posted recipe events in 4.740 ms
+[11:42:39] [INFO ] Modified & removed recipes in 59.80 ms
+[11:42:39] [INFO ] Added recipes in 1.495 ms
+[11:42:39] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes

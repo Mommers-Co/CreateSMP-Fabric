@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "dc18ff98-676d-4b68-9261-16446369aa65",
+    "name": "NightPotato",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
