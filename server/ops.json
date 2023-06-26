@@ -1,7 +1,37 @@
 [
   {
+    "uuid": "e065daed-aae0-45e2-82bb-cb3e94dae34a",
+    "name": "MindOfEmily",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0d7046c6-edae-43e2-8376-e3d6a8328383",
+    "name": "HappyHamburger5",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "30766f88-54a7-442c-83d0-5421596063f3",
+    "name": "jonowono",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "173c40a0-4542-46e2-a61a-5be4c9f68d6f",
+    "name": "Black_Ice_Knight",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "dc18ff98-676d-4b68-9261-16446369aa65",
     "name": "NightPotato",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "dd20914b-b2e2-46a9-890d-1447a8310504",
+    "name": "Kebatron",
     "level": 4,
     "bypassesPlayerLimit": false
   }

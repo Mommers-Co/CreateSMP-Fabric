@@ -46,9 +46,7 @@
           ]
         }
       },
-      "renderer": "chiselsandbits:default",
       "debug": {
-        "enabled": false,
         "mutator": {
           "colors": {
             "chiseling": [
@@ -64,13 +62,14 @@
               0.65
             ]
           }
-        }
-      }
+        },
+        "enabled": false
+      },
+      "renderer": "chiselsandbits:default"
     },
     "selected-tool-mode-icons": {
       "renderer": "chiselsandbits:group"
     },
-    "invert-pick-block-behaviour": false,
     "clipboard": {
       "size": 64,
       "add-broken-blocks": true,
@@ -81,15 +80,16 @@
     },
     "warnings": {
       "show-cool-down-error": false
-    }
+    },
+    "invert-pick-block-behaviour": false
   },
   "performance": {
     "caches": {
       "sizes": {
         "bit-storage-content-models": 100,
-        "block-models": 1000,
+        "block-models": 3500,
         "block-faces": 1000000,
-        "cull-testing": 1000,
+        "cull-testing": 3500,
         "stack-models": 100
       }
     },
